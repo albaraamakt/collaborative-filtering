@@ -1,0 +1,101 @@
+meal_id,name,ingredients,description,category,price,order_id,user_id
+0,Kumpir,"Patates, Peynir, Mısır, Sosis, Mayonez","Patates pişirilir, içine peynir, mısır, sosis eklenir ve üzerine mayonez sürülerek servis edilir.",Potato Dish,10.99,322,3
+0,Kumpir,"Patates, Peynir, Mısır, Sosis, Mayonez","Patates pişirilir, içine peynir, mısır, sosis eklenir ve üzerine mayonez sürülerek servis edilir.",Potato Dish,10.99,350,3
+0,Kumpir,"Patates, Peynir, Mısır, Sosis, Mayonez","Patates pişirilir, içine peynir, mısır, sosis eklenir ve üzerine mayonez sürülerek servis edilir.",Potato Dish,10.99,389,3
+1,İskender,"Döner Kebap, Yoğurt, Tereyağı, Domates Sosu, Ekmek","Döner et, yoğurt ve tereyağı ile soslanan ekmek üzerine konularak servis edilir.",Kebab,15.5,301,3
+1,İskender,"Döner Kebap, Yoğurt, Tereyağı, Domates Sosu, Ekmek","Döner et, yoğurt ve tereyağı ile soslanan ekmek üzerine konularak servis edilir.",Kebab,15.5,317,3
+2,Adana Kebap,"Dana Kıyması, Biber Salçası, Baharatlar, Soğan, Sumak",Baharatlarla harmanlanmış dana kıyması şişe dizilir ve mangalda pişirilir.,Kebab,18.75,343,3
+3,Lahmacun,"Kıyma, Soğan, Domates, Biber, Baharatlar","Kıyma ve baharatlarla hazırlanan harç, ince hamurun üzerine sürülerek fırında pişirilir.",Turkish Pizza,8.99,309,3
+3,Lahmacun,"Kıyma, Soğan, Domates, Biber, Baharatlar","Kıyma ve baharatlarla hazırlanan harç, ince hamurun üzerine sürülerek fırında pişirilir.",Turkish Pizza,8.99,342,3
+3,Lahmacun,"Kıyma, Soğan, Domates, Biber, Baharatlar","Kıyma ve baharatlarla hazırlanan harç, ince hamurun üzerine sürülerek fırında pişirilir.",Turkish Pizza,8.99,352,3
+4,Hünkar Beğendi,"Kuzu Etı, Beyaz Un, Süt, Yoğurt, Beyaz Peynir","Kuzu eti haşlanarak rendelenmiş beyaz peynir, yoğurt ve süt karışımının üzerine eklenir.",Meat Dish,25.99,327,3
+4,Hünkar Beğendi,"Kuzu Etı, Beyaz Un, Süt, Yoğurt, Beyaz Peynir","Kuzu eti haşlanarak rendelenmiş beyaz peynir, yoğurt ve süt karışımının üzerine eklenir.",Meat Dish,25.99,339,3
+4,Hünkar Beğendi,"Kuzu Etı, Beyaz Un, Süt, Yoğurt, Beyaz Peynir","Kuzu eti haşlanarak rendelenmiş beyaz peynir, yoğurt ve süt karışımının üzerine eklenir.",Meat Dish,25.99,398,3
+4,Hünkar Beğendi,"Kuzu Etı, Beyaz Un, Süt, Yoğurt, Beyaz Peynir","Kuzu eti haşlanarak rendelenmiş beyaz peynir, yoğurt ve süt karışımının üzerine eklenir.",Meat Dish,25.99,399,3
+5,Ali Nazik Kebabı,"Bostan Patlıcanı, Yoğurt, Sarımsak, Zeytinyağı, Kırmızı Pul Biber","Bostan patlıcanı közlenip ezilir, yoğurt, sarımsak ve zeytinyağı eklenerek karıştırılır.",Kebab,12.5,307,3
+5,Ali Nazik Kebabı,"Bostan Patlıcanı, Yoğurt, Sarımsak, Zeytinyağı, Kırmızı Pul Biber","Bostan patlıcanı közlenip ezilir, yoğurt, sarımsak ve zeytinyağı eklenerek karıştırılır.",Kebab,12.5,311,3
+5,Ali Nazik Kebabı,"Bostan Patlıcanı, Yoğurt, Sarımsak, Zeytinyağı, Kırmızı Pul Biber","Bostan patlıcanı közlenip ezilir, yoğurt, sarımsak ve zeytinyağı eklenerek karıştırılır.",Kebab,12.5,336,3
+7,Balık Tava,"Balık, Un, Limon, Tuz, Zeytinyağı","Balıklar una bulanıp tavada kızartılarak, üzerine limon ve zeytinyağı eklenerek servis edilir.",Seafood,14.99,321,3
+7,Balık Tava,"Balık, Un, Limon, Tuz, Zeytinyağı","Balıklar una bulanıp tavada kızartılarak, üzerine limon ve zeytinyağı eklenerek servis edilir.",Seafood,14.99,328,3
+7,Balık Tava,"Balık, Un, Limon, Tuz, Zeytinyağı","Balıklar una bulanıp tavada kızartılarak, üzerine limon ve zeytinyağı eklenerek servis edilir.",Seafood,14.99,344,3
+7,Balık Tava,"Balık, Un, Limon, Tuz, Zeytinyağı","Balıklar una bulanıp tavada kızartılarak, üzerine limon ve zeytinyağı eklenerek servis edilir.",Seafood,14.99,349,3
+7,Balık Tava,"Balık, Un, Limon, Tuz, Zeytinyağı","Balıklar una bulanıp tavada kızartılarak, üzerine limon ve zeytinyağı eklenerek servis edilir.",Seafood,14.99,361,3
+7,Balık Tava,"Balık, Un, Limon, Tuz, Zeytinyağı","Balıklar una bulanıp tavada kızartılarak, üzerine limon ve zeytinyağı eklenerek servis edilir.",Seafood,14.99,365,3
+7,Balık Tava,"Balık, Un, Limon, Tuz, Zeytinyağı","Balıklar una bulanıp tavada kızartılarak, üzerine limon ve zeytinyağı eklenerek servis edilir.",Seafood,14.99,383,3
+8,Beyti Kebap,"Dana Kıyması, Baharatlar, Yoğurt, Tereyağı, Domates Sosu","Baharatlı dana kıyması, şişe sarılıp mangalda pişirilir ve üzerine yoğurtlu sos ve tereyağlı domates sos eklenir.",Kebab,22.5,360,3
+8,Beyti Kebap,"Dana Kıyması, Baharatlar, Yoğurt, Tereyağı, Domates Sosu","Baharatlı dana kıyması, şişe sarılıp mangalda pişirilir ve üzerine yoğurtlu sos ve tereyağlı domates sos eklenir.",Kebab,22.5,395,3
+9,Börek,"Yufka, Peynir, Yumurta, Süt, Tereyağı","Yufka katları arasına peynir ve yumurta karışımı konularak hazırlanan börek, fırında pişirilir.",Pastry,11.25,359,3
+9,Börek,"Yufka, Peynir, Yumurta, Süt, Tereyağı","Yufka katları arasına peynir ve yumurta karışımı konularak hazırlanan börek, fırında pişirilir.",Pastry,11.25,380,3
+10,Ciğer Sote,"Ciğer, Soğan, Yeşil Biber, Domates, Baharatlar","Ciğerler doğranıp sotelenerek, üzerine doğranmış sebzeler ve baharatlar eklenerek soteleme işlemi tamamlanır.",Meat Dish,16.75,340,3
+10,Ciğer Sote,"Ciğer, Soğan, Yeşil Biber, Domates, Baharatlar","Ciğerler doğranıp sotelenerek, üzerine doğranmış sebzeler ve baharatlar eklenerek soteleme işlemi tamamlanır.",Meat Dish,16.75,373,3
+10,Ciğer Sote,"Ciğer, Soğan, Yeşil Biber, Domates, Baharatlar","Ciğerler doğranıp sotelenerek, üzerine doğranmış sebzeler ve baharatlar eklenerek soteleme işlemi tamamlanır.",Meat Dish,16.75,384,3
+11,Çiğ Köfte,"İnce Bulgur, Kırmızı Mercimek, Soğan, Domates Salçası, Baharatlar","İnce bulgur, kırmızı mercimek, soğan ve baharatlarla hazırlanan karışım, yoğrulup şekil verilerek servis edilir.",Appetizer,7.99,320,3
+11,Çiğ Köfte,"İnce Bulgur, Kırmızı Mercimek, Soğan, Domates Salçası, Baharatlar","İnce bulgur, kırmızı mercimek, soğan ve baharatlarla hazırlanan karışım, yoğrulup şekil verilerek servis edilir.",Appetizer,7.99,324,3
+11,Çiğ Köfte,"İnce Bulgur, Kırmızı Mercimek, Soğan, Domates Salçası, Baharatlar","İnce bulgur, kırmızı mercimek, soğan ve baharatlarla hazırlanan karışım, yoğrulup şekil verilerek servis edilir.",Appetizer,7.99,391,3
+12,Çılbır,"Yumurta, Yoğurt, Sarımsak, Tereyağı, Sirke","Haşlanmış yumurtalar, yoğurt ve sarımsak sosu ile servis edilir.",Egg Dish,13.5,334,3
+12,Çılbır,"Yumurta, Yoğurt, Sarımsak, Tereyağı, Sirke","Haşlanmış yumurtalar, yoğurt ve sarımsak sosu ile servis edilir.",Egg Dish,13.5,354,3
+14,Fırın Makarna,"Makarna, Béchamel Sos, Kaşar Peyniri, Domates Sosu, Baharatlar","Makarna haşlanır, üzerine béchamel sos, kaşar peyniri ve domates sosu eklenerek fırında pişirilir.",Pasta,11.99,316,3
+14,Fırın Makarna,"Makarna, Béchamel Sos, Kaşar Peyniri, Domates Sosu, Baharatlar","Makarna haşlanır, üzerine béchamel sos, kaşar peyniri ve domates sosu eklenerek fırında pişirilir.",Pasta,11.99,319,3
+14,Fırın Makarna,"Makarna, Béchamel Sos, Kaşar Peyniri, Domates Sosu, Baharatlar","Makarna haşlanır, üzerine béchamel sos, kaşar peyniri ve domates sosu eklenerek fırında pişirilir.",Pasta,11.99,331,3
+14,Fırın Makarna,"Makarna, Béchamel Sos, Kaşar Peyniri, Domates Sosu, Baharatlar","Makarna haşlanır, üzerine béchamel sos, kaşar peyniri ve domates sosu eklenerek fırında pişirilir.",Pasta,11.99,348,3
+14,Fırın Makarna,"Makarna, Béchamel Sos, Kaşar Peyniri, Domates Sosu, Baharatlar","Makarna haşlanır, üzerine béchamel sos, kaşar peyniri ve domates sosu eklenerek fırında pişirilir.",Pasta,11.99,363,3
+15,Fırın Tavuk,"Tavuk, Zeytinyağı, Baharatlar, Limon, Soğan","Tavuk parçaları baharatlarla marine edilir, fırında pişirilir ve üzerine zeytinyağı ve limon sıkılarak servis edilir.",Meat Dish,24.5,304,3
+15,Fırın Tavuk,"Tavuk, Zeytinyağı, Baharatlar, Limon, Soğan","Tavuk parçaları baharatlarla marine edilir, fırında pişirilir ve üzerine zeytinyağı ve limon sıkılarak servis edilir.",Meat Dish,24.5,397,3
+16,Hamsi Tava,"Hamsi, Un, Limon, Tuz, Zeytinyağı","Hamsiler una bulanıp kızartılarak, limon ve zeytinyağı eklenerek servis edilir.",Seafood,17.25,364,3
+16,Hamsi Tava,"Hamsi, Un, Limon, Tuz, Zeytinyağı","Hamsiler una bulanıp kızartılarak, limon ve zeytinyağı eklenerek servis edilir.",Seafood,17.25,366,3
+16,Hamsi Tava,"Hamsi, Un, Limon, Tuz, Zeytinyağı","Hamsiler una bulanıp kızartılarak, limon ve zeytinyağı eklenerek servis edilir.",Seafood,17.25,382,3
+16,Hamsi Tava,"Hamsi, Un, Limon, Tuz, Zeytinyağı","Hamsiler una bulanıp kızartılarak, limon ve zeytinyağı eklenerek servis edilir.",Seafood,17.25,385,3
+16,Hamsi Tava,"Hamsi, Un, Limon, Tuz, Zeytinyağı","Hamsiler una bulanıp kızartılarak, limon ve zeytinyağı eklenerek servis edilir.",Seafood,17.25,394,3
+17,Havuç Tarator,"Havuç, Yoğurt, Sarımsak, Zeytinyağı, Tuz","Rendelenmiş havuç, yoğurt, sarımsak ve zeytinyağı ile hazırlanan sos, tuz eklenerek servis edilir.",Salad,9.75,312,3
+17,Havuç Tarator,"Havuç, Yoğurt, Sarımsak, Zeytinyağı, Tuz","Rendelenmiş havuç, yoğurt, sarımsak ve zeytinyağı ile hazırlanan sos, tuz eklenerek servis edilir.",Salad,9.75,330,3
+17,Havuç Tarator,"Havuç, Yoğurt, Sarımsak, Zeytinyağı, Tuz","Rendelenmiş havuç, yoğurt, sarımsak ve zeytinyağı ile hazırlanan sos, tuz eklenerek servis edilir.",Salad,9.75,370,3
+17,Havuç Tarator,"Havuç, Yoğurt, Sarımsak, Zeytinyağı, Tuz","Rendelenmiş havuç, yoğurt, sarımsak ve zeytinyağı ile hazırlanan sos, tuz eklenerek servis edilir.",Salad,9.75,387,3
+18,İmam Bayıldı,"Patlıcan, Domates, Soğan, Sarımsak, Zeytinyağı","Patlıcanlar kızartılıp, içine domates, soğan ve sarımsaklı sos eklenerek fırında pişirilir.",Vegetable Dish,14.5,326,3
+18,İmam Bayıldı,"Patlıcan, Domates, Soğan, Sarımsak, Zeytinyağı","Patlıcanlar kızartılıp, içine domates, soğan ve sarımsaklı sos eklenerek fırında pişirilir.",Vegetable Dish,14.5,345,3
+18,İmam Bayıldı,"Patlıcan, Domates, Soğan, Sarımsak, Zeytinyağı","Patlıcanlar kızartılıp, içine domates, soğan ve sarımsaklı sos eklenerek fırında pişirilir.",Vegetable Dish,14.5,353,3
+19,İskilip Dolması,"Kuzu Kıyması, Pirinç, Soğan, Nane, Tuz","Pirinç ve kuzu kıyması karışımı ile hazırlanan iç malzeme, asma yaprağına sarılarak pişirilir.",Stuffed Grape Leaves,20.0,305,3
+19,İskilip Dolması,"Kuzu Kıyması, Pirinç, Soğan, Nane, Tuz","Pirinç ve kuzu kıyması karışımı ile hazırlanan iç malzeme, asma yaprağına sarılarak pişirilir.",Stuffed Grape Leaves,20.0,306,3
+19,İskilip Dolması,"Kuzu Kıyması, Pirinç, Soğan, Nane, Tuz","Pirinç ve kuzu kıyması karışımı ile hazırlanan iç malzeme, asma yaprağına sarılarak pişirilir.",Stuffed Grape Leaves,20.0,375,3
+19,İskilip Dolması,"Kuzu Kıyması, Pirinç, Soğan, Nane, Tuz","Pirinç ve kuzu kıyması karışımı ile hazırlanan iç malzeme, asma yaprağına sarılarak pişirilir.",Stuffed Grape Leaves,20.0,376,3
+19,İskilip Dolması,"Kuzu Kıyması, Pirinç, Soğan, Nane, Tuz","Pirinç ve kuzu kıyması karışımı ile hazırlanan iç malzeme, asma yaprağına sarılarak pişirilir.",Stuffed Grape Leaves,20.0,386,3
+20,İslim Kebap,"Kuzu Etı, Patates, Soğan, Domates, Baharatlar","Kuzu eti, patates ve baharatlarla hazırlanan kebap, fırında pişirilerek servis edilir.",Kebab,23.75,329,3
+20,İslim Kebap,"Kuzu Etı, Patates, Soğan, Domates, Baharatlar","Kuzu eti, patates ve baharatlarla hazırlanan kebap, fırında pişirilerek servis edilir.",Kebab,23.75,337,3
+20,İslim Kebap,"Kuzu Etı, Patates, Soğan, Domates, Baharatlar","Kuzu eti, patates ve baharatlarla hazırlanan kebap, fırında pişirilerek servis edilir.",Kebab,23.75,338,3
+20,İslim Kebap,"Kuzu Etı, Patates, Soğan, Domates, Baharatlar","Kuzu eti, patates ve baharatlarla hazırlanan kebap, fırında pişirilerek servis edilir.",Kebab,23.75,351,3
+21,Ispanaklı Karnabahar,"Ispanak, Karnabahar, Soğan, Sarımsak, Zeytinyağı","Ispanak ve karnabahar, soğan ve sarımsaklı sos ile sotelenerek servis edilir.",Vegetable Dish,18.5,377,3
+21,Ispanaklı Karnabahar,"Ispanak, Karnabahar, Soğan, Sarımsak, Zeytinyağı","Ispanak ve karnabahar, soğan ve sarımsaklı sos ile sotelenerek servis edilir.",Vegetable Dish,18.5,388,3
+22,Kadayıf,"Kadayıf, Ceviz, Şeker, Su, Tereyağı","Kadayıf katları arasına ceviz içi konularak hazırlanan kadayıf, fırında pişirildikten sonra şekerli şerbetle buluşturulur.",Dessert,10.25,325,3
+22,Kadayıf,"Kadayıf, Ceviz, Şeker, Su, Tereyağı","Kadayıf katları arasına ceviz içi konularak hazırlanan kadayıf, fırında pişirildikten sonra şekerli şerbetle buluşturulur.",Dessert,10.25,393,3
+23,Karides Güveç,"Karides, Domates, Soğan, Sarımsak, Zeytinyağı",Karides ve sebzeler soslanıp güveçte fırında pişirilerek servis edilir.,Seafood,12.99,302,3
+23,Karides Güveç,"Karides, Domates, Soğan, Sarımsak, Zeytinyağı",Karides ve sebzeler soslanıp güveçte fırında pişirilerek servis edilir.,Seafood,12.99,315,3
+23,Karides Güveç,"Karides, Domates, Soğan, Sarımsak, Zeytinyağı",Karides ve sebzeler soslanıp güveçte fırında pişirilerek servis edilir.,Seafood,12.99,355,3
+23,Karides Güveç,"Karides, Domates, Soğan, Sarımsak, Zeytinyağı",Karides ve sebzeler soslanıp güveçte fırında pişirilerek servis edilir.,Seafood,12.99,356,3
+23,Karides Güveç,"Karides, Domates, Soğan, Sarımsak, Zeytinyağı",Karides ve sebzeler soslanıp güveçte fırında pişirilerek servis edilir.,Seafood,12.99,374,3
+25,Kavurmalı Pilav,"Dana Kavurma, Pirinç, Soğan, Baharatlar, Tereyağı","Dana kavurma, pirinç ve baharatlarla hazırlanan pilav, tereyağı ile sotelenerek servis edilir.",Rice Dish,16.5,303,3
+25,Kavurmalı Pilav,"Dana Kavurma, Pirinç, Soğan, Baharatlar, Tereyağı","Dana kavurma, pirinç ve baharatlarla hazırlanan pilav, tereyağı ile sotelenerek servis edilir.",Rice Dish,16.5,314,3
+25,Kavurmalı Pilav,"Dana Kavurma, Pirinç, Soğan, Baharatlar, Tereyağı","Dana kavurma, pirinç ve baharatlarla hazırlanan pilav, tereyağı ile sotelenerek servis edilir.",Rice Dish,16.5,318,3
+25,Kavurmalı Pilav,"Dana Kavurma, Pirinç, Soğan, Baharatlar, Tereyağı","Dana kavurma, pirinç ve baharatlarla hazırlanan pilav, tereyağı ile sotelenerek servis edilir.",Rice Dish,16.5,333,3
+25,Kavurmalı Pilav,"Dana Kavurma, Pirinç, Soğan, Baharatlar, Tereyağı","Dana kavurma, pirinç ve baharatlarla hazırlanan pilav, tereyağı ile sotelenerek servis edilir.",Rice Dish,16.5,341,3
+25,Kavurmalı Pilav,"Dana Kavurma, Pirinç, Soğan, Baharatlar, Tereyağı","Dana kavurma, pirinç ve baharatlarla hazırlanan pilav, tereyağı ile sotelenerek servis edilir.",Rice Dish,16.5,347,3
+25,Kavurmalı Pilav,"Dana Kavurma, Pirinç, Soğan, Baharatlar, Tereyağı","Dana kavurma, pirinç ve baharatlarla hazırlanan pilav, tereyağı ile sotelenerek servis edilir.",Rice Dish,16.5,368,3
+25,Kavurmalı Pilav,"Dana Kavurma, Pirinç, Soğan, Baharatlar, Tereyağı","Dana kavurma, pirinç ve baharatlarla hazırlanan pilav, tereyağı ile sotelenerek servis edilir.",Rice Dish,16.5,369,3
+26,Kısır,"Bulgur, Domates Salçası, Limon Suyu, Nane, Soğan","Bulgur, domates salçası ve baharatlarla hazırlanan kısır, limon suyu ile karıştırılarak servis edilir.",Salad,19.99,358,3
+27,Kuzu Güveç,"Kuzu Etı, Patates, Soğan, Domates, Baharatlar","Kuzu eti, sebzeler ve baharatlar güveçte fırında pişirilerek servis edilir.",Meat Dish,13.75,346,3
+27,Kuzu Güveç,"Kuzu Etı, Patates, Soğan, Domates, Baharatlar","Kuzu eti, sebzeler ve baharatlar güveçte fırında pişirilerek servis edilir.",Meat Dish,13.75,371,3
+27,Kuzu Güveç,"Kuzu Etı, Patates, Soğan, Domates, Baharatlar","Kuzu eti, sebzeler ve baharatlar güveçte fırında pişirilerek servis edilir.",Meat Dish,13.75,379,3
+28,Kuzu İncik,"Kuzu İncik, Soğan, Sarımsak, Zeytinyağı, Baharatlar","Kuzu incik, soğan ve baharatlarla marine edilip fırında pişirilir.",Meat Dish,15.0,300,3
+28,Kuzu İncik,"Kuzu İncik, Soğan, Sarımsak, Zeytinyağı, Baharatlar","Kuzu incik, soğan ve baharatlarla marine edilip fırında pişirilir.",Meat Dish,15.0,362,3
+28,Kuzu İncik,"Kuzu İncik, Soğan, Sarımsak, Zeytinyağı, Baharatlar","Kuzu incik, soğan ve baharatlarla marine edilip fırında pişirilir.",Meat Dish,15.0,378,3
+29,Kuzu Kelle Paça Çorbası,"Kuzu Kelle Paça, Soğan, Limon, Baharatlar, Nohut","Kuzu kelle paça, soğan ve baharatlarla kaynatılarak içine nohut eklenip çorba haline getirilir.",Soup,23.5,335,3
+29,Kuzu Kelle Paça Çorbası,"Kuzu Kelle Paça, Soğan, Limon, Baharatlar, Nohut","Kuzu kelle paça, soğan ve baharatlarla kaynatılarak içine nohut eklenip çorba haline getirilir.",Soup,23.5,372,3
+29,Kuzu Kelle Paça Çorbası,"Kuzu Kelle Paça, Soğan, Limon, Baharatlar, Nohut","Kuzu kelle paça, soğan ve baharatlarla kaynatılarak içine nohut eklenip çorba haline getirilir.",Soup,23.5,392,3
+30,Kuzu Tandır,"Kuzu Etı, Yoğurt, Baharatlar, Limon, Sarımsak","Kuzu eti, yoğurtlu sos ve baharatlarla marine edilip fırında tandırda pişirilir.",Meat Dish,22.99,308,3
+30,Kuzu Tandır,"Kuzu Etı, Yoğurt, Baharatlar, Limon, Sarımsak","Kuzu eti, yoğurtlu sos ve baharatlarla marine edilip fırında tandırda pişirilir.",Meat Dish,22.99,313,3
+30,Kuzu Tandır,"Kuzu Etı, Yoğurt, Baharatlar, Limon, Sarımsak","Kuzu eti, yoğurtlu sos ve baharatlarla marine edilip fırında tandırda pişirilir.",Meat Dish,22.99,357,3
+30,Kuzu Tandır,"Kuzu Etı, Yoğurt, Baharatlar, Limon, Sarımsak","Kuzu eti, yoğurtlu sos ve baharatlarla marine edilip fırında tandırda pişirilir.",Meat Dish,22.99,390,3
+32,Mantı,"Dana Kıyması, Un, Yoğurt, Sarımsak, Tereyağı","İnce hamurla yapılan mantı, içine kıyma konularak kaynar suda haşlanır ve üzerine yoğurtlu sos ve tereyağı eklenir.",Pasta,17.99,310,3
+32,Mantı,"Dana Kıyması, Un, Yoğurt, Sarımsak, Tereyağı","İnce hamurla yapılan mantı, içine kıyma konularak kaynar suda haşlanır ve üzerine yoğurtlu sos ve tereyağı eklenir.",Pasta,17.99,332,3
+32,Mantı,"Dana Kıyması, Un, Yoğurt, Sarımsak, Tereyağı","İnce hamurla yapılan mantı, içine kıyma konularak kaynar suda haşlanır ve üzerine yoğurtlu sos ve tereyağı eklenir.",Pasta,17.99,367,3
+32,Mantı,"Dana Kıyması, Un, Yoğurt, Sarımsak, Tereyağı","İnce hamurla yapılan mantı, içine kıyma konularak kaynar suda haşlanır ve üzerine yoğurtlu sos ve tereyağı eklenir.",Pasta,17.99,396,3
+33,Mercimek Çorbası,"Kırmızı Mercimek, Soğan, Domates, Tereyağı, Baharatlar","Kırmızı mercimek, soğan ve baharatlarla hazırlanan çorba, tereyağı ile sotelenerek servis edilir.",Soup,14.0,323,3
+33,Mercimek Çorbası,"Kırmızı Mercimek, Soğan, Domates, Tereyağı, Baharatlar","Kırmızı mercimek, soğan ve baharatlarla hazırlanan çorba, tereyağı ile sotelenerek servis edilir.",Soup,14.0,381,3

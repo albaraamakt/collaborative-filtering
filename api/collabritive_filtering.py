@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
 
 # Load dataset
 all_user_orders = pd.read_csv('../orders.csv')
@@ -7,8 +8,6 @@ all_user_orders = pd.read_csv('../orders.csv')
 user_item_matrix = all_user_orders.groupby(['user_id', 'meal_id']).size().unstack(fill_value=0)
 
 df = pd.DataFrame(user_item_matrix)
-
-from sklearn.metrics.pairwise import cosine_similarity
 
 # Calculate cosine similarity
 user_similarity_matrix = pd.DataFrame(cosine_similarity(user_item_matrix), index=user_item_matrix.index, columns=user_item_matrix.index)

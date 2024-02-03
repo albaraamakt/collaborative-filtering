@@ -1,18 +1,7 @@
 from flask import Flask, jsonify, request
-import collabritive_filtering
-from collabritive_filtering import top_similar_users, user_item_matrix
+from collabritive_filtering import top_similar_users, user_item_matrix, generate_recommendations
 
 app = Flask(__name__)
-
-# Function to generate recommendations for a user
-def generate_recommendations(user_id):
-    similar_users = top_similar_users.loc[user_id]
-    user_orders = user_item_matrix.loc[user_id]
-    not_ordered_items = user_orders[user_orders == 0].index
-    similar_users_orders = user_item_matrix.loc[similar_users].sum()
-    recommended_items = similar_users_orders[not_ordered_items]
-    recommended_items = recommended_items.sort_values(ascending=False)
-    return recommended_items
 
 # API endpoint to get recommendations for a user
 @app.route('/get_recommendations', methods=['GET'])
